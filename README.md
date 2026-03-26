@@ -15,3 +15,7 @@ To load the extension manually in your browser:
 5. **Select Folder:** Browse to and select the unzipped folder to apply the theme.
 
 ---
+
+### 📸 Preview
+
+![Gemini UI Theme Preview](GeminiImage.png)
